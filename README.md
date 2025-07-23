@@ -29,8 +29,3 @@ python3 run.py
 
 ## 🏗️ Architecture Diagram
 ![Architecture Diagram](assets/architecture_diagram.jpg)
-
-## 🧑‍⚖️ Hackathon Judging
-For a limited time, a fully deployed AI agent is available on Vertex AI for judging purposes. The agent link on the submission form should lead to a webpage indicating the following error: ![Error Page](assets/error_page.jpg)
-
-This is by design and is intended to limit public access. To request access to the deployed model, forward the error message to rajwolchapagain@gmail.com. 
